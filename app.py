@@ -14,6 +14,7 @@ video_links = {
     2022: 'https://github.com/user-attachments/assets/734ba483-0b94-4981-a575-42e08cf2af4f',
     2023: 'https://github.com/user-attachments/assets/6305acd2-9f2f-46b4-8fdb-7457cc68f02c',
     2024: 'https://github.com/user-attachments/assets/52c265c7-fa57-40c0-bd12-3c55231220d7',
+    2025: 'https://github.com/user-attachments/assets/6c9ebbab-7446-4b66-8ea3-3b0fdde3b0b2',
 }
 
 st.title("Ruska weather replay")
@@ -26,3 +27,4 @@ st.markdown("""
     """,
     unsafe_allow_html=True
 )
+
