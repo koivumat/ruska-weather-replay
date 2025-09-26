@@ -18,7 +18,7 @@ video_links = {
 }
 
 st.title("Ruska weather replay")
-year = st.selectbox("Select edition:", list(range(2017, 2025)))
+year = st.selectbox("Select edition:", list(range(2017, 2026)))
 st.video(video_links[year])
     
 st.markdown("""
@@ -27,4 +27,5 @@ st.markdown("""
     """,
     unsafe_allow_html=True
 )
+
 
